@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**max-content/max-content** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mnsalz91/mnsalz91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Max (she/they <- please use both). I'm a transplant from the world of theatre with a love of collaborative work and inclusivity. I'm currently working to complete certification from Coding Dojo. I have so far completed Python and Java Stacks. 
+
+Fun fact: I'm an avid crafter and huge nerd. My friendship bracelets were featured in the finale episodes of Orphan Black on BBC America.
